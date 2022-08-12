@@ -4,13 +4,19 @@
 
 A demo of color sensor functionality. The runtime is read from the sensor the RGBA color values and set to the LED RGB the color(RED, GREEN, BLUE).
 
+[![Color Sensor Video](https://img.youtube.com/vi/yMlIg9nEQwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=yMlIg9nEQwc)
+
 ## [HTPP Request](./http_request)
 
 Demonstrates how to send an HTTP request to a esp32 server and get the response. In this case the response of request is success after send servo move command.
 
+[![HTPP Request Video](https://img.youtube.com/vi/geptVXy13Kw/maxresdefault.jpg)](https://www.youtube.com/watch?v=geptVXy13Kw)
+
 ## [Snake Game](./snake_game)
 
 A simple snake game made with OLED display and capacitive touch. You can eat the food and grow longer, incresing the score and speed. The game is over when you hit the wall or yourself.
+
+[![Snake Game Video](https://img.youtube.com/vi/6zYovL3dtoI/maxresdefault.jpg)](https://www.youtube.com/watch?v=6zYovL3dtoI)
 
 ### Itens:
 
